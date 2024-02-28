@@ -1,0 +1,4 @@
+add_executable(launch_thread 启动线程.cpp)
+add_executable(2-2 2-2.cpp)
+add_executable(2-3 2-3.cpp)
+add_executable(stack stack.cpp)
